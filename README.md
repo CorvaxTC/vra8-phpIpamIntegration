@@ -2,7 +2,10 @@
 vRealize Automaion 8.x - PHP Ipam Integration using 3rd Party SDK
 
 This was developped to learn how to use the vRealize Automation 8 - Third Party Ipam Integration SDK
-The sdk version 1.1 was used.
+
+This was tested with phpIpam version 1.4 and vRealize Automation 8.2
+
+The sdk version 1.1 was used to develop this package.
 https://code.vmware.com/web/sdk/1.1.0/vmware-vrealize-automation-third-party-ipam-sdk
 
 Documentation references :
@@ -43,9 +46,5 @@ Files that were modified from original sdk:
  \phpIpam-sdk-v1.1\tango-ipam-sdk\src\main\python\deallocate_ip
   - source.py
    Added code required to deallocate ip in a range from the enpoint as described in the documentation.
-   
- 
-
-   
-   
+  
 
