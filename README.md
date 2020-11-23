@@ -48,3 +48,6 @@ Files that were modified from original sdk:
    Added code required to deallocate ip in a range from the enpoint as described in the documentation.
   
 
+***
+PHP Ipam integration.zip : fully compiled version of the package, ready to upload and test.
+***
